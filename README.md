@@ -1,4 +1,4 @@
-# validator-logos
+dza42# validator-logos
 Repository to store validator logos
 * The validators logos will be used by several clients such as Harmony staking explorer when displaying the list of validators.
 
